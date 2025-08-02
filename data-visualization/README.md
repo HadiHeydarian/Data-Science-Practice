@@ -28,3 +28,6 @@ This project analyzes youth survey responses to explore patterns in internet usa
 ###  Correlation Heatmap (Survey Data)
 ![Correlation Heatmap](plots/survey_correlation_heatmap.png)
 
+##  Dataset
+Dataset used: *young-people-survey-responses.csv* (from DataCamp course). Not publicly shared due to license.
+
