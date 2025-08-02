@@ -1,6 +1,7 @@
 # Data-Science-Practice
 Practice projects for data science and machine learning
 This folder contains data visualization practice projects.
+This folder contains data visualization practice projects.
 ### Internet Usage by Age
 ![Internet Usage](plots/internet_usage_by_age.png)
 
@@ -21,4 +22,7 @@ This folder contains data visualization practice projects.
 
 ###  Correlation Heatmap (Survey Data)
 ![Correlation Heatmap](plots/survey_correlation_heatmap.png)
+
+
+
 
