@@ -1,4 +1,12 @@
 This folder contains data visualization practice projects.
+## Description
+This project analyzes youth survey responses to explore patterns in internet usage and interest in mathematics and science. The data is categorized by age, gender, and living area.
+## Tools
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
+  
 ### Internet Usage by Age
 ![Internet Usage](plots/internet_usage_by_age.png)
 
